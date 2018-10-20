@@ -28,10 +28,12 @@ contacts = {
   }
 }
 contacts.each do |person, contact_details_hash|
-  binding.pry
 
 contact_details_hash.each do |attribute, data|
-    binding.pry
+
+:favorite_ice_cream_flavors
+
+data.delete_if
     end
   end
 end
