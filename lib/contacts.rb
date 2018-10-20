@@ -23,4 +23,3 @@ contacts)
       end
     end
   end
-end
